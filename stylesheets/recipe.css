@@ -1,0 +1,17 @@
+html {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: rgb(31, 36, 36);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(75, 101, 101);
+}
+
+.ingredients, .steps {
+    text-align: start;
+}

@@ -1,0 +1,13 @@
+html {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(76, 41, 24);
+    text-align: center;
+}
+
+ul li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
