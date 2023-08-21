@@ -1,13 +1,21 @@
-html {
+.body {
     background-color: antiquewhite;
+    width: 55%;
+    height: 400px;
+    margin: 20px auto;
 }
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(76, 41, 24);
     text-align: center;
+    border-bottom: 2px solid rgb(76, 41, 24);
+    padding: 20px 5px 5px;
 }
 
 ul li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    text-align: center;
+    padding: 25px;
 }
